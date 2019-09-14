@@ -1,3 +1,21 @@
 h1 {
     color: red;
 }
+
+table {
+    background-color: green;
+    border: 1px solid black;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid black;
+    color: #FFF;
+}
+
+td,
+th {
+    padding: 10px;
+}
